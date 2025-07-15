@@ -10,28 +10,28 @@
     "title": "Hemalatha",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "Hemalatha15 - Developer Portfolio",
-      "description": "Developer Portfolio of Hemalatha15",
+      "title": "Hemalatha - Developer Portfolio",
+      "description": "Developer Portfolio of Hemalatha",
       "keywords": "developer, portfolio, github",
-      "author": "Hemalatha15",
-      "og_image": "https://avatars.githubusercontent.com/Hemalatha15",
+      "author": "Hemalatha",
+      "og_image": "https://avatars.githubusercontent.com/Hemalatha",
       "twitter_card": "summary_large_image",
-      "base_url": "https://Hemalatha15.github.io/Hemalatha.github.io"
+      "base_url": "https://Hemalatha.github.io/Hemalatha.github.io"
     }
   },
   "header": {
-    "greeting": "Hemalatha15",
+    "greeting": "Hemalatha",
     "tagline": "Developer and Creator."
   },
   "social_links": [
     {
       "name": "GitHub",
-      "url": "https://github.com/Hemalatha15",
+      "url": "https://github.com/Hemalatha",
       "icon": "github",
       "required": true
     }
   ],
-  "github_username": "Hemalatha15",
+  "github_username": "Hemalatha",
   "about": {
     "paragraphs": [
       "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
@@ -51,7 +51,7 @@
         ],
         "picture": "assets/projects/Placeholder.png",
         "link": {
-          "url": "https://Hemalatha15.github.io/Hemalatha.github.io",
+          "url": "https://Hemalatha.github.io/Hemalatha.github.io",
           "title": "View Live Site"
         }
       }
